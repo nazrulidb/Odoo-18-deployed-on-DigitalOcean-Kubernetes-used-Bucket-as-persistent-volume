@@ -1,0 +1,1 @@
+# Odoo-18-deployed-on-DigitalOcean-Kubernetes-used-Bucket-as-persistent-volume
